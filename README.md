@@ -5,3 +5,8 @@
 
 ```\c web_dev```
 
+
+#### * To run the test cases
+```docker-compose exec web python -m pytest```
+
+
