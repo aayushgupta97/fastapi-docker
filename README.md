@@ -10,3 +10,5 @@
 ```docker-compose exec web python -m pytest```
 
 
+#### * To generate the db schema
+```docker-compose exec web python app/db.py```
